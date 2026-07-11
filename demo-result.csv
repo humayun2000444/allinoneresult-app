@@ -1,7 +1,7 @@
-﻿Roll,Student ID,Name,Father's Name,Mother's Name,Total Present,Bangla 1st Paper - Exam,Bangla 1st Paper - M.T.,Bangla 2nd Paper,English 1st Paper - Exam,English 1st Paper - M.T.,English 2nd Paper,Mathematics - Exam,Mathematics - M.T.,Religion - Exam,Religion - M.T.,Environment - Exam,Environment - M.T.,General Knowledge - Exam,General Knowledge - M.T.,Drawing,Conversation,SBA
-1,2026GL301,Raisa Anjum,Md Kamrul Hasan,Sharmin Sultana,65,75,19,47,74,18,46,76,19,74,19,73,20,76,18,44,47,46
-2,2026GL302,Sabbir Khan,Md Nazrul Islam,Kohinur Begum,61,61,15,39,60,14,38,63,15,62,14,60,15,61,15,37,38,36
-3,2026GL303,Mim Akter,Md Shafiqul Islam,Taslima Akter,57,52,13,35,50,12,34,54,13,53,13,51,12,52,14,28,33,31
-4,2026GL304,Shakil Ahmed,Md Babul Mia,Morjina Begum,40,45,12,34,47,11,33,48,12,50,13,46,12,47,11,22,28,15
-5,2026GL305,Puja Rani Das,Shyamal Das,Anita Rani,59,40,10,33,42,11,33,44,10,45,12,41,10,43,11,21,26,24
-6,2026GL306,Abdullah Al Noman,Md Anwar Hossain,Fatema Begum,67,78,20,49,77,19,48,79,20,78,20,76,19,78,20,46,48,47
+﻿Student ID,Name,Father's Name,Mother's Name,Total Present,Bangla 1st Paper - Exam,Bangla 1st Paper - M.T.,Bangla 2nd Paper,English 1st Paper - Exam,English 1st Paper - M.T.,English 2nd Paper,Mathematics - Exam,Mathematics - M.T.,Religion - Exam,Religion - M.T.,Environment - Exam,Environment - M.T.,General Knowledge - Exam,General Knowledge - M.T.,Drawing,Conversation,SBA
+2026GL301,Raisa Anjum,Md Kamrul Hasan,Sharmin Sultana,65,75,19,47,74,18,46,76,19,74,19,73,20,76,18,44,47,46
+2026GL302,Sabbir Khan,Md Nazrul Islam,Kohinur Begum,61,61,15,39,60,14,38,63,15,62,14,60,15,61,15,37,38,36
+2026GL303,Mim Akter,Md Shafiqul Islam,Taslima Akter,57,52,13,35,50,12,34,54,13,53,13,51,12,52,14,28,33,31
+2026GL304,Shakil Ahmed,Md Babul Mia,Morjina Begum,40,45,12,34,47,11,33,48,12,50,13,46,12,47,11,22,28,15
+2026GL305,Puja Rani Das,Shyamal Das,Anita Rani,59,40,10,33,42,11,33,44,10,45,12,41,10,43,11,21,26,24
+2026GL306,Abdullah Al Noman,Md Anwar Hossain,Fatema Begum,67,78,20,49,77,19,48,79,20,78,20,76,19,78,20,46,48,47
